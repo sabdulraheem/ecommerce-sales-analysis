@@ -1,4 +1,4 @@
-# E-commerce Sales Analysis Dashboard
+# E-commerce Sales & Business Operations Analysis
 
 This repository contains a comprehensive analysis of e-commerce sales and profitability data. The analysis highlights trends, top-performing categories, sub-categories, customer segments, and low-margin areas. Interactive charts are linked for detailed visualization.
 
